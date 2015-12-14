@@ -94,8 +94,6 @@ public class Structure {
             }
         } catch (Exception e) {
         }
-        
-        
     }
 
     /**
@@ -143,6 +141,7 @@ public class Structure {
             }
             outputData.append("\n");
     }
+    
     /**
      * processStuff() calls all the methods which moves processes around states
      */
